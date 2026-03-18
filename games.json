@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Project Alpha",
+    "description": "A fast-paced multiplayer arena shooter.",
+    "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=600&q=80",
+    "downloadUrl": "https://github.com/yourusername/project/releases/download/v1.0/game.zip"
+  },
+  {
+    "id": 2,
+    "name": "Neon Runner",
+    "description": "Cyberpunk platformer with synthwave tracks.",
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?auto=format&fit=crop&w=600&q=80",
+    "downloadUrl": "https://pub-xxxxxxxx.r2.dev/neon-runner.zip"
+  },
+  {
+    "id": 3,
+    "name": "Deep Space Mining",
+    "description": "Resource management and exploration.",
+    "image": "https://images.unsplash.com/photo-1614729939124-03290b8ede66?auto=format&fit=crop&w=600&q=80",
+    "downloadUrl": "https://drive.google.com/file/d/1ABC123XYZ/view?usp=sharing"
+  }
+]
